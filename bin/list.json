@@ -1,0 +1,44 @@
+{
+    "builds": [
+      {
+        "path": "soljson_v0.4.24+commit.6ae29c7.js",
+        "version": "0.4.24",
+        "build": "commit.6ae29c7",
+        "longVersion": "0.4.24+commit.6ae29c7",
+        "keccak256": "0x549f045c8f9c6f6b3b6c46009ad0c02ce5d84f54f1dc989918df00b00a16b1a1",
+        "urls": [
+          ""
+        ]
+      },
+      {
+        "path": "soljson_v0.4.25+commit.69a1e72.js",
+        "version": "0.4.25",
+        "build": "commit.69a1e72",
+        "longVersion": "0.4.25+commit.69a1e72",
+        "keccak256": "0x4445fed545ea27159bb11eed740f45043b62425eaa408dc4e256ebf506b380e2",
+        "urls": [
+          ""
+        ]
+      },
+      {
+        "path": "soljson_v0.5.4+commit.1d7181d.js",
+        "version": "0.5.4",
+        "build": "commit.1d7181d",
+        "longVersion": "0.5.4+commit.1d7181d",
+        "keccak256": "0x737e30cfd3e989d9eb4c519f2c3f342ac2bd3d279f34e06fc057761fefda8cb3",
+        "urls": [
+          ""
+        ]
+      },
+      {
+        "path": "soljson_v0.5.8+commit.1f148fe.js",
+        "version": "0.5.8",
+        "build": "commit.1f148fe",
+        "longVersion": "0.5.8+commit.1f148fe",
+        "keccak256": "0xb902135a8c0019ba8df026ffa08db46e71a2acdc42c878e82ec7b5ca80e0ffaf",
+        "urls": [
+          ""
+        ]
+      },
+    ]
+}
